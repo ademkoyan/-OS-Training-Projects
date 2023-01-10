@@ -1,13 +1,13 @@
 //
-//  Deneme1UITests.swift
-//  Deneme1UITests
+//  Picker_KullanimiUITests.swift
+//  Picker KullanimiUITests
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //
 
 import XCTest
 
-class Deneme1UITests: XCTestCase {
+class Picker_KullanimiUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

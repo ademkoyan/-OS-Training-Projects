@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C101A778296D8FC5004E7E23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A777296D8FC5004E7E23 /* AppDelegate.swift */; };
-		C101A77A296D8FC5004E7E23 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A779296D8FC5004E7E23 /* SceneDelegate.swift */; };
-		C101A77C296D8FC5004E7E23 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A77B296D8FC5004E7E23 /* ViewController.swift */; };
-		C101A77F296D8FC5004E7E23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C101A77D296D8FC5004E7E23 /* Main.storyboard */; };
-		C101A781296D8FC6004E7E23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C101A780296D8FC6004E7E23 /* Assets.xcassets */; };
-		C101A784296D8FC6004E7E23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C101A782296D8FC6004E7E23 /* LaunchScreen.storyboard */; };
-		C101A78F296D8FC6004E7E23 /* Deneme1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A78E296D8FC6004E7E23 /* Deneme1Tests.swift */; };
-		C101A799296D8FC6004E7E23 /* Deneme1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A798296D8FC6004E7E23 /* Deneme1UITests.swift */; };
-		C101A79B296D8FC6004E7E23 /* Deneme1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A79A296D8FC6004E7E23 /* Deneme1UITestsLaunchTests.swift */; };
+		C101A7B4296D9155004E7E23 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7B3296D9155004E7E23 /* AppDelegate.swift */; };
+		C101A7B6296D9155004E7E23 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7B5296D9155004E7E23 /* SceneDelegate.swift */; };
+		C101A7B8296D9155004E7E23 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7B7296D9155004E7E23 /* ViewController.swift */; };
+		C101A7BB296D9155004E7E23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C101A7B9296D9155004E7E23 /* Main.storyboard */; };
+		C101A7BD296D9156004E7E23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C101A7BC296D9156004E7E23 /* Assets.xcassets */; };
+		C101A7C0296D9156004E7E23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C101A7BE296D9156004E7E23 /* LaunchScreen.storyboard */; };
+		C101A7CB296D9156004E7E23 /* Picker_KullanimiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7CA296D9156004E7E23 /* Picker_KullanimiTests.swift */; };
+		C101A7D5296D9156004E7E23 /* Picker_KullanimiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7D4296D9156004E7E23 /* Picker_KullanimiUITests.swift */; };
+		C101A7D7296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101A7D6296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		C101A78B296D8FC6004E7E23 /* PBXContainerItemProxy */ = {
+		C101A7C7296D9156004E7E23 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C101A76C296D8FC5004E7E23 /* Project object */;
+			containerPortal = C101A7A8296D9155004E7E23 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C101A773296D8FC5004E7E23;
-			remoteInfo = Deneme1;
+			remoteGlobalIDString = C101A7AF296D9155004E7E23;
+			remoteInfo = "Picker Kullanimi";
 		};
-		C101A795296D8FC6004E7E23 /* PBXContainerItemProxy */ = {
+		C101A7D1296D9156004E7E23 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C101A76C296D8FC5004E7E23 /* Project object */;
+			containerPortal = C101A7A8296D9155004E7E23 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C101A773296D8FC5004E7E23;
-			remoteInfo = Deneme1;
+			remoteGlobalIDString = C101A7AF296D9155004E7E23;
+			remoteInfo = "Picker Kullanimi";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C101A774296D8FC5004E7E23 /* Deneme1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Deneme1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C101A777296D8FC5004E7E23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C101A779296D8FC5004E7E23 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C101A77B296D8FC5004E7E23 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C101A77E296D8FC5004E7E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C101A780296D8FC6004E7E23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C101A783296D8FC6004E7E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C101A785296D8FC6004E7E23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C101A78A296D8FC6004E7E23 /* Deneme1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Deneme1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C101A78E296D8FC6004E7E23 /* Deneme1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deneme1Tests.swift; sourceTree = "<group>"; };
-		C101A794296D8FC6004E7E23 /* Deneme1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Deneme1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C101A798296D8FC6004E7E23 /* Deneme1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deneme1UITests.swift; sourceTree = "<group>"; };
-		C101A79A296D8FC6004E7E23 /* Deneme1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deneme1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C101A7B0296D9155004E7E23 /* Picker Kullanimi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Picker Kullanimi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C101A7B3296D9155004E7E23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C101A7B5296D9155004E7E23 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C101A7B7296D9155004E7E23 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C101A7BA296D9155004E7E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C101A7BC296D9156004E7E23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C101A7BF296D9156004E7E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C101A7C1296D9156004E7E23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C101A7C6296D9156004E7E23 /* Picker KullanimiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Picker KullanimiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C101A7CA296D9156004E7E23 /* Picker_KullanimiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker_KullanimiTests.swift; sourceTree = "<group>"; };
+		C101A7D0296D9156004E7E23 /* Picker KullanimiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Picker KullanimiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C101A7D4296D9156004E7E23 /* Picker_KullanimiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker_KullanimiUITests.swift; sourceTree = "<group>"; };
+		C101A7D6296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker_KullanimiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C101A771296D8FC5004E7E23 /* Frameworks */ = {
+		C101A7AD296D9155004E7E23 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A787296D8FC6004E7E23 /* Frameworks */ = {
+		C101A7C3296D9156004E7E23 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A791296D8FC6004E7E23 /* Frameworks */ = {
+		C101A7CD296D9156004E7E23 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C101A76B296D8FC5004E7E23 = {
+		C101A7A7296D9155004E7E23 = {
 			isa = PBXGroup;
 			children = (
-				C101A776296D8FC5004E7E23 /* Deneme1 */,
-				C101A78D296D8FC6004E7E23 /* Deneme1Tests */,
-				C101A797296D8FC6004E7E23 /* Deneme1UITests */,
-				C101A775296D8FC5004E7E23 /* Products */,
+				C101A7B2296D9155004E7E23 /* Picker Kullanimi */,
+				C101A7C9296D9156004E7E23 /* Picker KullanimiTests */,
+				C101A7D3296D9156004E7E23 /* Picker KullanimiUITests */,
+				C101A7B1296D9155004E7E23 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C101A775296D8FC5004E7E23 /* Products */ = {
+		C101A7B1296D9155004E7E23 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C101A774296D8FC5004E7E23 /* Deneme1.app */,
-				C101A78A296D8FC6004E7E23 /* Deneme1Tests.xctest */,
-				C101A794296D8FC6004E7E23 /* Deneme1UITests.xctest */,
+				C101A7B0296D9155004E7E23 /* Picker Kullanimi.app */,
+				C101A7C6296D9156004E7E23 /* Picker KullanimiTests.xctest */,
+				C101A7D0296D9156004E7E23 /* Picker KullanimiUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C101A776296D8FC5004E7E23 /* Deneme1 */ = {
+		C101A7B2296D9155004E7E23 /* Picker Kullanimi */ = {
 			isa = PBXGroup;
 			children = (
-				C101A777296D8FC5004E7E23 /* AppDelegate.swift */,
-				C101A779296D8FC5004E7E23 /* SceneDelegate.swift */,
-				C101A77B296D8FC5004E7E23 /* ViewController.swift */,
-				C101A77D296D8FC5004E7E23 /* Main.storyboard */,
-				C101A780296D8FC6004E7E23 /* Assets.xcassets */,
-				C101A782296D8FC6004E7E23 /* LaunchScreen.storyboard */,
-				C101A785296D8FC6004E7E23 /* Info.plist */,
+				C101A7B3296D9155004E7E23 /* AppDelegate.swift */,
+				C101A7B5296D9155004E7E23 /* SceneDelegate.swift */,
+				C101A7B7296D9155004E7E23 /* ViewController.swift */,
+				C101A7B9296D9155004E7E23 /* Main.storyboard */,
+				C101A7BC296D9156004E7E23 /* Assets.xcassets */,
+				C101A7BE296D9156004E7E23 /* LaunchScreen.storyboard */,
+				C101A7C1296D9156004E7E23 /* Info.plist */,
 			);
-			path = Deneme1;
+			path = "Picker Kullanimi";
 			sourceTree = "<group>";
 		};
-		C101A78D296D8FC6004E7E23 /* Deneme1Tests */ = {
+		C101A7C9296D9156004E7E23 /* Picker KullanimiTests */ = {
 			isa = PBXGroup;
 			children = (
-				C101A78E296D8FC6004E7E23 /* Deneme1Tests.swift */,
+				C101A7CA296D9156004E7E23 /* Picker_KullanimiTests.swift */,
 			);
-			path = Deneme1Tests;
+			path = "Picker KullanimiTests";
 			sourceTree = "<group>";
 		};
-		C101A797296D8FC6004E7E23 /* Deneme1UITests */ = {
+		C101A7D3296D9156004E7E23 /* Picker KullanimiUITests */ = {
 			isa = PBXGroup;
 			children = (
-				C101A798296D8FC6004E7E23 /* Deneme1UITests.swift */,
-				C101A79A296D8FC6004E7E23 /* Deneme1UITestsLaunchTests.swift */,
+				C101A7D4296D9156004E7E23 /* Picker_KullanimiUITests.swift */,
+				C101A7D6296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift */,
 			);
-			path = Deneme1UITests;
+			path = "Picker KullanimiUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C101A773296D8FC5004E7E23 /* Deneme1 */ = {
+		C101A7AF296D9155004E7E23 /* Picker Kullanimi */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C101A79E296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1" */;
+			buildConfigurationList = C101A7DA296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker Kullanimi" */;
 			buildPhases = (
-				C101A770296D8FC5004E7E23 /* Sources */,
-				C101A771296D8FC5004E7E23 /* Frameworks */,
-				C101A772296D8FC5004E7E23 /* Resources */,
+				C101A7AC296D9155004E7E23 /* Sources */,
+				C101A7AD296D9155004E7E23 /* Frameworks */,
+				C101A7AE296D9155004E7E23 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Deneme1;
-			productName = Deneme1;
-			productReference = C101A774296D8FC5004E7E23 /* Deneme1.app */;
+			name = "Picker Kullanimi";
+			productName = "Picker Kullanimi";
+			productReference = C101A7B0296D9155004E7E23 /* Picker Kullanimi.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C101A789296D8FC6004E7E23 /* Deneme1Tests */ = {
+		C101A7C5296D9156004E7E23 /* Picker KullanimiTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C101A7A1296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1Tests" */;
+			buildConfigurationList = C101A7DD296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker KullanimiTests" */;
 			buildPhases = (
-				C101A786296D8FC6004E7E23 /* Sources */,
-				C101A787296D8FC6004E7E23 /* Frameworks */,
-				C101A788296D8FC6004E7E23 /* Resources */,
+				C101A7C2296D9156004E7E23 /* Sources */,
+				C101A7C3296D9156004E7E23 /* Frameworks */,
+				C101A7C4296D9156004E7E23 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C101A78C296D8FC6004E7E23 /* PBXTargetDependency */,
+				C101A7C8296D9156004E7E23 /* PBXTargetDependency */,
 			);
-			name = Deneme1Tests;
-			productName = Deneme1Tests;
-			productReference = C101A78A296D8FC6004E7E23 /* Deneme1Tests.xctest */;
+			name = "Picker KullanimiTests";
+			productName = "Picker KullanimiTests";
+			productReference = C101A7C6296D9156004E7E23 /* Picker KullanimiTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C101A793296D8FC6004E7E23 /* Deneme1UITests */ = {
+		C101A7CF296D9156004E7E23 /* Picker KullanimiUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C101A7A4296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1UITests" */;
+			buildConfigurationList = C101A7E0296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker KullanimiUITests" */;
 			buildPhases = (
-				C101A790296D8FC6004E7E23 /* Sources */,
-				C101A791296D8FC6004E7E23 /* Frameworks */,
-				C101A792296D8FC6004E7E23 /* Resources */,
+				C101A7CC296D9156004E7E23 /* Sources */,
+				C101A7CD296D9156004E7E23 /* Frameworks */,
+				C101A7CE296D9156004E7E23 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C101A796296D8FC6004E7E23 /* PBXTargetDependency */,
+				C101A7D2296D9156004E7E23 /* PBXTargetDependency */,
 			);
-			name = Deneme1UITests;
-			productName = Deneme1UITests;
-			productReference = C101A794296D8FC6004E7E23 /* Deneme1UITests.xctest */;
+			name = "Picker KullanimiUITests";
+			productName = "Picker KullanimiUITests";
+			productReference = C101A7D0296D9156004E7E23 /* Picker KullanimiUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C101A76C296D8FC5004E7E23 /* Project object */ = {
+		C101A7A8296D9155004E7E23 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					C101A773296D8FC5004E7E23 = {
+					C101A7AF296D9155004E7E23 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
-					C101A789296D8FC6004E7E23 = {
+					C101A7C5296D9156004E7E23 = {
 						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = C101A773296D8FC5004E7E23;
+						TestTargetID = C101A7AF296D9155004E7E23;
 					};
-					C101A793296D8FC6004E7E23 = {
+					C101A7CF296D9156004E7E23 = {
 						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = C101A773296D8FC5004E7E23;
+						TestTargetID = C101A7AF296D9155004E7E23;
 					};
 				};
 			};
-			buildConfigurationList = C101A76F296D8FC5004E7E23 /* Build configuration list for PBXProject "Deneme1" */;
+			buildConfigurationList = C101A7AB296D9155004E7E23 /* Build configuration list for PBXProject "Picker Kullanimi" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = C101A76B296D8FC5004E7E23;
-			productRefGroup = C101A775296D8FC5004E7E23 /* Products */;
+			mainGroup = C101A7A7296D9155004E7E23;
+			productRefGroup = C101A7B1296D9155004E7E23 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C101A773296D8FC5004E7E23 /* Deneme1 */,
-				C101A789296D8FC6004E7E23 /* Deneme1Tests */,
-				C101A793296D8FC6004E7E23 /* Deneme1UITests */,
+				C101A7AF296D9155004E7E23 /* Picker Kullanimi */,
+				C101A7C5296D9156004E7E23 /* Picker KullanimiTests */,
+				C101A7CF296D9156004E7E23 /* Picker KullanimiUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C101A772296D8FC5004E7E23 /* Resources */ = {
+		C101A7AE296D9155004E7E23 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C101A784296D8FC6004E7E23 /* LaunchScreen.storyboard in Resources */,
-				C101A781296D8FC6004E7E23 /* Assets.xcassets in Resources */,
-				C101A77F296D8FC5004E7E23 /* Main.storyboard in Resources */,
+				C101A7C0296D9156004E7E23 /* LaunchScreen.storyboard in Resources */,
+				C101A7BD296D9156004E7E23 /* Assets.xcassets in Resources */,
+				C101A7BB296D9155004E7E23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A788296D8FC6004E7E23 /* Resources */ = {
+		C101A7C4296D9156004E7E23 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A792296D8FC6004E7E23 /* Resources */ = {
+		C101A7CE296D9156004E7E23 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C101A770296D8FC5004E7E23 /* Sources */ = {
+		C101A7AC296D9155004E7E23 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C101A77C296D8FC5004E7E23 /* ViewController.swift in Sources */,
-				C101A778296D8FC5004E7E23 /* AppDelegate.swift in Sources */,
-				C101A77A296D8FC5004E7E23 /* SceneDelegate.swift in Sources */,
+				C101A7B8296D9155004E7E23 /* ViewController.swift in Sources */,
+				C101A7B4296D9155004E7E23 /* AppDelegate.swift in Sources */,
+				C101A7B6296D9155004E7E23 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A786296D8FC6004E7E23 /* Sources */ = {
+		C101A7C2296D9156004E7E23 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C101A78F296D8FC6004E7E23 /* Deneme1Tests.swift in Sources */,
+				C101A7CB296D9156004E7E23 /* Picker_KullanimiTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C101A790296D8FC6004E7E23 /* Sources */ = {
+		C101A7CC296D9156004E7E23 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C101A79B296D8FC6004E7E23 /* Deneme1UITestsLaunchTests.swift in Sources */,
-				C101A799296D8FC6004E7E23 /* Deneme1UITests.swift in Sources */,
+				C101A7D5296D9156004E7E23 /* Picker_KullanimiUITests.swift in Sources */,
+				C101A7D7296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C101A78C296D8FC6004E7E23 /* PBXTargetDependency */ = {
+		C101A7C8296D9156004E7E23 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C101A773296D8FC5004E7E23 /* Deneme1 */;
-			targetProxy = C101A78B296D8FC6004E7E23 /* PBXContainerItemProxy */;
+			target = C101A7AF296D9155004E7E23 /* Picker Kullanimi */;
+			targetProxy = C101A7C7296D9156004E7E23 /* PBXContainerItemProxy */;
 		};
-		C101A796296D8FC6004E7E23 /* PBXTargetDependency */ = {
+		C101A7D2296D9156004E7E23 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C101A773296D8FC5004E7E23 /* Deneme1 */;
-			targetProxy = C101A795296D8FC6004E7E23 /* PBXContainerItemProxy */;
+			target = C101A7AF296D9155004E7E23 /* Picker Kullanimi */;
+			targetProxy = C101A7D1296D9156004E7E23 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C101A77D296D8FC5004E7E23 /* Main.storyboard */ = {
+		C101A7B9296D9155004E7E23 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C101A77E296D8FC5004E7E23 /* Base */,
+				C101A7BA296D9155004E7E23 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C101A782296D8FC6004E7E23 /* LaunchScreen.storyboard */ = {
+		C101A7BE296D9156004E7E23 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C101A783296D8FC6004E7E23 /* Base */,
+				C101A7BF296D9156004E7E23 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C101A79C296D8FC6004E7E23 /* Debug */ = {
+		C101A7D8296D9156004E7E23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		C101A79D296D8FC6004E7E23 /* Release */ = {
+		C101A7D9296D9156004E7E23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,7 +430,7 @@
 			};
 			name = Release;
 		};
-		C101A79F296D8FC6004E7E23 /* Debug */ = {
+		C101A7DB296D9156004E7E23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -439,7 +439,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Deneme1/Info.plist;
+				INFOPLIST_FILE = "Picker Kullanimi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -450,7 +450,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-Kullanimi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -458,7 +458,7 @@
 			};
 			name = Debug;
 		};
-		C101A7A0296D8FC6004E7E23 /* Release */ = {
+		C101A7DC296D9156004E7E23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -467,7 +467,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Deneme1/Info.plist;
+				INFOPLIST_FILE = "Picker Kullanimi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -478,7 +478,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-Kullanimi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -486,7 +486,7 @@
 			};
 			name = Release;
 		};
-		C101A7A2296D8FC6004E7E23 /* Debug */ = {
+		C101A7DE296D9156004E7E23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -497,16 +497,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-KullanimiTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Deneme1.app/Deneme1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Picker Kullanimi.app/Picker Kullanimi";
 			};
 			name = Debug;
 		};
-		C101A7A3296D8FC6004E7E23 /* Release */ = {
+		C101A7DF296D9156004E7E23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -517,16 +517,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-KullanimiTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Deneme1.app/Deneme1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Picker Kullanimi.app/Picker Kullanimi";
 			};
 			name = Release;
 		};
-		C101A7A5296D8FC6004E7E23 /* Debug */ = {
+		C101A7E1296D9156004E7E23 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -535,16 +535,16 @@
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-KullanimiUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Deneme1;
+				TEST_TARGET_NAME = "Picker Kullanimi";
 			};
 			name = Debug;
 		};
-		C101A7A6296D8FC6004E7E23 /* Release */ = {
+		C101A7E2296D9156004E7E23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -553,55 +553,55 @@
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ademkoyan.Deneme1UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "ademkoyan.Picker-KullanimiUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Deneme1;
+				TEST_TARGET_NAME = "Picker Kullanimi";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C101A76F296D8FC5004E7E23 /* Build configuration list for PBXProject "Deneme1" */ = {
+		C101A7AB296D9155004E7E23 /* Build configuration list for PBXProject "Picker Kullanimi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C101A79C296D8FC6004E7E23 /* Debug */,
-				C101A79D296D8FC6004E7E23 /* Release */,
+				C101A7D8296D9156004E7E23 /* Debug */,
+				C101A7D9296D9156004E7E23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C101A79E296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1" */ = {
+		C101A7DA296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker Kullanimi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C101A79F296D8FC6004E7E23 /* Debug */,
-				C101A7A0296D8FC6004E7E23 /* Release */,
+				C101A7DB296D9156004E7E23 /* Debug */,
+				C101A7DC296D9156004E7E23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C101A7A1296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1Tests" */ = {
+		C101A7DD296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker KullanimiTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C101A7A2296D8FC6004E7E23 /* Debug */,
-				C101A7A3296D8FC6004E7E23 /* Release */,
+				C101A7DE296D9156004E7E23 /* Debug */,
+				C101A7DF296D9156004E7E23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C101A7A4296D8FC6004E7E23 /* Build configuration list for PBXNativeTarget "Deneme1UITests" */ = {
+		C101A7E0296D9156004E7E23 /* Build configuration list for PBXNativeTarget "Picker KullanimiUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C101A7A5296D8FC6004E7E23 /* Debug */,
-				C101A7A6296D8FC6004E7E23 /* Release */,
+				C101A7E1296D9156004E7E23 /* Debug */,
+				C101A7E2296D9156004E7E23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C101A76C296D8FC5004E7E23 /* Project object */;
+	rootObject = C101A7A8296D9155004E7E23 /* Project object */;
 }

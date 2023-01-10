@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Deneme1
+//  Picker Kullanimi
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //

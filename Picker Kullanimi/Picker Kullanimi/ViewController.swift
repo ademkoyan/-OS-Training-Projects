@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Deneme1
+//  Picker Kullanimi
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //
@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Deneme1 yükleme")
+        // Do any additional setup after loading the view.
     }
 
 
