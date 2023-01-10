@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  PickerUses
+//  Deneme1
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //
@@ -11,9 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        print("Hello world")
-        // branch 2 deneme1
+        print("Deneme1 yükleme")
     }
 
 

@@ -1,13 +1,13 @@
 //
-//  PickerUsesUITestsLaunchTests.swift
-//  PickerUsesUITests
+//  Deneme1UITestsLaunchTests.swift
+//  Deneme1UITests
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //
 
 import XCTest
 
-class PickerUsesUITestsLaunchTests: XCTestCase {
+class Deneme1UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

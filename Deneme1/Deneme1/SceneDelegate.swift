@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  PickerUses
+//  Deneme1
 //
 //  Created by Adem KOYAN on 10.01.2023.
 //
