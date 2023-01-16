@@ -56,8 +56,10 @@ class ViewController: UIViewController {
         let alinanTarih = dateFortmatter.string(from: datePicker.date)
         
         datePickerTxt.text = alinanTarih
-        
+        /*
         view.endEditing(true)
+         düzenleme bittiği gibi kapatmaya yarıyor.
+         */
     }
     
     @objc func dokunmaAlgilamaMetod() {
