@@ -79,9 +79,9 @@
 		C101A7A7296D9155004E7E23 = {
 			isa = PBXGroup;
 			children = (
-				C101A7B2296D9155004E7E23 /* Picker Kullanimi */,
-				C101A7C9296D9156004E7E23 /* Picker KullanimiTests */,
-				C101A7D3296D9156004E7E23 /* Picker KullanimiUITests */,
+				C101A7B2296D9155004E7E23 /* Date and Time Picker Kullanimi */,
+				C101A7C9296D9156004E7E23 /* Date and Time Picker KullanimiTests */,
+				C101A7D3296D9156004E7E23 /* Date and Time Picker KullanimiUITests */,
 				C101A7B1296D9155004E7E23 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C101A7B2296D9155004E7E23 /* Picker Kullanimi */ = {
+		C101A7B2296D9155004E7E23 /* Date and Time Picker Kullanimi */ = {
 			isa = PBXGroup;
 			children = (
 				C101A7B3296D9155004E7E23 /* AppDelegate.swift */,
@@ -107,24 +107,24 @@
 				C101A7BE296D9156004E7E23 /* LaunchScreen.storyboard */,
 				C101A7C1296D9156004E7E23 /* Info.plist */,
 			);
-			path = "Picker Kullanimi";
+			path = "Date and Time Picker Kullanimi";
 			sourceTree = "<group>";
 		};
-		C101A7C9296D9156004E7E23 /* Picker KullanimiTests */ = {
+		C101A7C9296D9156004E7E23 /* Date and Time Picker KullanimiTests */ = {
 			isa = PBXGroup;
 			children = (
 				C101A7CA296D9156004E7E23 /* Picker_KullanimiTests.swift */,
 			);
-			path = "Picker KullanimiTests";
+			path = "Date and Time Picker KullanimiTests";
 			sourceTree = "<group>";
 		};
-		C101A7D3296D9156004E7E23 /* Picker KullanimiUITests */ = {
+		C101A7D3296D9156004E7E23 /* Date and Time Picker KullanimiUITests */ = {
 			isa = PBXGroup;
 			children = (
 				C101A7D4296D9156004E7E23 /* Picker_KullanimiUITests.swift */,
 				C101A7D6296D9156004E7E23 /* Picker_KullanimiUITestsLaunchTests.swift */,
 			);
-			path = "Picker KullanimiUITests";
+			path = "Date and Time Picker KullanimiUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
