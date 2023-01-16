@@ -35,9 +35,9 @@ class ViewController: UIViewController {
         
         datePicker?.addTarget(self, action: #selector(tarihGoster(datePicker:)), for:.valueChanged )
        
-        let dokunmaAlgilama = UIGestureRecognizer(target: self, action: #selector(dokunmaAlgilamaMetod)){
-            view.gestureRecognizers(dokunmaAlgilama())
-        }
+        let dokunmaAlgilama = UIGestureRecognizer(target: self, action: #selector(dokunmaAlgilamaMetod))
+        view.addGestureRecognizer(dokunmaAlgilama)
+        
        
         addConstraite()
     }
@@ -60,7 +60,7 @@ class ViewController: UIViewController {
         view.endEditing(true)
     }
     
-    @objc func dokunmaAlgilamametod() {
+    @objc func dokunmaAlgilamaMetod() {
         view.endEditing(true)
     }
     
