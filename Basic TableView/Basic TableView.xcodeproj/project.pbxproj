@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C101D0A2297D2E6000069A77 /* CustomCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101D0A1297D2E6000069A77 /* CustomCellTableViewCell.swift */; };
+		C101D0A4297D334300069A77 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C101D0A3297D334300069A77 /* Data.swift */; };
 		C17B35B7297C8106003DC696 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B35B6297C8106003DC696 /* AppDelegate.swift */; };
 		C17B35B9297C8106003DC696 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B35B8297C8106003DC696 /* SceneDelegate.swift */; };
 		C17B35BB297C8106003DC696 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B35BA297C8106003DC696 /* ViewController.swift */; };
@@ -38,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C101D0A1297D2E6000069A77 /* CustomCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCellTableViewCell.swift; sourceTree = "<group>"; };
+		C101D0A3297D334300069A77 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		C17B35B3297C8106003DC696 /* Basic TableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Basic TableView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C17B35B6297C8106003DC696 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C17B35B8297C8106003DC696 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -144,6 +148,8 @@
 				C17B35BC297C8106003DC696 /* Main.storyboard */,
 				C17B35C1297C8107003DC696 /* LaunchScreen.storyboard */,
 				C17B35C4297C8107003DC696 /* Info.plist */,
+				C101D0A1297D2E6000069A77 /* CustomCellTableViewCell.swift */,
+				C101D0A3297D334300069A77 /* Data.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -288,8 +294,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C101D0A4297D334300069A77 /* Data.swift in Sources */,
 				C17B35BB297C8106003DC696 /* ViewController.swift in Sources */,
 				C17B35B7297C8106003DC696 /* AppDelegate.swift in Sources */,
+				C101D0A2297D2E6000069A77 /* CustomCellTableViewCell.swift in Sources */,
 				C17B35EC297C81B9003DC696 /* UIView+Ext.swift in Sources */,
 				C17B35B9297C8106003DC696 /* SceneDelegate.swift in Sources */,
 				C17B35EA297C81A4003DC696 /* Constants.swift in Sources */,
@@ -471,7 +479,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Basic TableView/Info.plist";
+				INFOPLIST_FILE = "Basic TableView/Model/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -499,7 +507,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Q46P73G22N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Basic TableView/Info.plist";
+				INFOPLIST_FILE = "Basic TableView/Model/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
