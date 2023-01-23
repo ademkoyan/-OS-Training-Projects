@@ -14,7 +14,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     struct Cells {
         static let customCell = "CustomCell"
     }
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .green
@@ -50,6 +50,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         cell.set(data: data)
         
         return cell
+        
     }
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let name = datas[indexPath.row].title
@@ -65,4 +66,3 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
 }
-
