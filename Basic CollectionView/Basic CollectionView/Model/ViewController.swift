@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         myCollectionView = UICollectionView(frame: self.view.frame, collectionViewLayout: layout)
 
         myCollectionView?.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "MyCell")
-        myCollectionView?.backgroundColor = UIColor.white
+        myCollectionView?.backgroundColor = .green
         
         myCollectionView?.dataSource = self
         myCollectionView?.delegate = self
