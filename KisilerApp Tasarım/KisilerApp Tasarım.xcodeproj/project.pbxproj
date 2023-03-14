@@ -13,6 +13,7 @@
 		C19ABBDC29BFBC8F00F8CCA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19ABBDA29BFBC8F00F8CCA2 /* Main.storyboard */; };
 		C19ABBDE29BFBC8F00F8CCA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C19ABBDD29BFBC8F00F8CCA2 /* Assets.xcassets */; };
 		C19ABBE129BFBC8F00F8CCA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19ABBDF29BFBC8F00F8CCA2 /* LaunchScreen.storyboard */; };
+		C1F3E4D529C0A1550048CA66 /* KisiEkleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F3E4D429C0A1550048CA66 /* KisiEkleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C19ABBDD29BFBC8F00F8CCA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C19ABBE029BFBC8F00F8CCA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C19ABBE229BFBC8F00F8CCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1F3E4D429C0A1550048CA66 /* KisiEkleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KisiEkleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C19ABBD429BFBC8F00F8CCA2 /* AppDelegate.swift */,
 				C19ABBD629BFBC8F00F8CCA2 /* SceneDelegate.swift */,
 				C19ABBD829BFBC8F00F8CCA2 /* ViewController.swift */,
+				C1F3E4D429C0A1550048CA66 /* KisiEkleViewController.swift */,
 				C19ABBDA29BFBC8F00F8CCA2 /* Main.storyboard */,
 				C19ABBDD29BFBC8F00F8CCA2 /* Assets.xcassets */,
 				C19ABBDF29BFBC8F00F8CCA2 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C19ABBD929BFBC8F00F8CCA2 /* ViewController.swift in Sources */,
 				C19ABBD529BFBC8F00F8CCA2 /* AppDelegate.swift in Sources */,
 				C19ABBD729BFBC8F00F8CCA2 /* SceneDelegate.swift in Sources */,
+				C1F3E4D529C0A1550048CA66 /* KisiEkleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

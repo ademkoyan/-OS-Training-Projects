@@ -19,8 +19,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .green
         
-        title = "Hello"
+       
         setTableView()
+        configureNavBar()
         
     }
     
@@ -29,13 +30,23 @@ class ViewController: UIViewController {
         tableView.frame = view.bounds
     }
     
-    func setTableView() {
+    private func setTableView() {
         view.addSubview(tableView)
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
         tableView.delegate = self
         tableView.dataSource = self
     }
     
+    private func configureNavBar() {
+        navigationItem.title = "Kişiler"
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(image: UIImage(systemName: "plus"), style: .done, target: self, action: #selector(addPerson))
+    }
+    
+    @objc func addPerson() {
+        let vc = KisiEkleViewController()
+        navigationController?.pushViewController(vc, animated: true)
+    }
 
 
 }
